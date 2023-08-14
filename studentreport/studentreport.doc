@@ -1,0 +1,7 @@
+R.NO	Name	Math	Physics	Chemistry	ComScience	Total
+Student [rollNo=123, name=ksb, gender=F, maths=50, physics=44, chem=77, cs=88]
+Student [rollNo=0, name=null, gender=null, maths=0, physics=0, chem=0, cs=0]
+Student [rollNo=124, name=DDP, gender=M, maths=40, physics=70, chem=90, cs=60]
+Student [rollNo=124, name=DDP, gender=M, maths=40, physics=70, chem=90, cs=60]
+Student [rollNo=125, name=SJB, gender=M, maths=80, physics=100, chem=90, cs=50]
+Reports ends here
