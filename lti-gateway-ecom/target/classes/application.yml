@@ -1,0 +1,11 @@
+server:
+  port: 1019
+spring:
+  application:
+    name: gateway
+
+ 
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:4196/eureka
